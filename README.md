@@ -92,7 +92,7 @@ cd zeroFoodFront
 npm install
 ```
 
-### Third step
+#### Third step
 
 **TO RUN THE SERVER**
 
